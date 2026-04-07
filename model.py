@@ -3,7 +3,6 @@ import utils
 import arquivo
 import analise_numpy as an
 
-
 class Disciplina:
     
 
