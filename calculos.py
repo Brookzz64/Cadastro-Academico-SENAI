@@ -32,4 +32,12 @@ def verificar_aprovação_final(final):
             situacao = "aprovado na final"
         else:
             situacao = "reprovado"
+        return situacao
+
+        """
+        
+        if final >= 5:
+            situacao = "aprovado na final"
+        else:
+            situacao = "reprovado"
         return situação
