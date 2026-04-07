@@ -10,5 +10,6 @@ Atualmente ele conta com as funções:
 6- Listar resumo academico;
 7- Exibir array de médias;
 8- Mostrar ranking de disciplinas;
+9- Mostrar estatísticas gerais;
 
 O programa consta tambem uma função de armazenamento, então pode guardar arquivos no computador, sem precisar ficar aberto 100% do tempo.
