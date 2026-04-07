@@ -10,6 +10,7 @@ Currently, it includes the following features:
 6- List academic summary;
 7- Display the averages array;
 8- Show subject ranking;
+9- Show general estatistcs;
 
 The program also features a storage function, allowing it to save files to your computer so the application doesn't need to stay open all 
 the time.
